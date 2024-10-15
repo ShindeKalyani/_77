@@ -8,7 +8,7 @@
 **Email:** [kalyanishinde1901@gmail.com](mailto:kalyanishinde1901@gmail.com)  
 **LinkedIn:** [Kalyani's LinkedIn](https://www.linkedin.com/in/kalyani-shinde-9111041)  
 
-<img align="right" width="150" src="https://your-profile-photo-link.com/photo.jpg" alt="Profile Photo">
+<img align="right" width="150" src="https://github.com/ShindeKalyani/_77/blob/main/kalyaniimg.png" alt="Profile Photo">
 
 </div>
 
